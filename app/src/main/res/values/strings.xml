@@ -2,4 +2,6 @@
     <string name="app_name">Homeworks</string>
     <string name="avengers_end_game">Avengers: End Game</string>
     <string name="back"><![CDATA[< Back]]></string>
+    <string name="tag">Action, Adventure, Fantasy</string>
+    <string name="age">13+</string>
 </resources>
