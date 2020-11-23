@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Homeworks</string>
+    <string name="avengers_end_game">Avengers: End Game</string>
+    <string name="back"><![CDATA[< Back]]></string>
 </resources>
